@@ -1,3 +1,14 @@
+#Student Name: Carlos Ocasio
+#Program Name:  Guessing Game
+#Creation Date:  07/30/2020
+#Last Modified Date:  10/27/2021
+#CSCI Course:  Survey Of Scripting Languages (301)
+#Grade Received:  100%
+#Design Comments:This script created in Perl is a Guessing Game where the user attempts to guess a number. 
+#The script generates a random positive number from a range of values determined by the user. 
+#The user will be given an option to quit the game after the first failed guess and after every third failed guessing attempt. 
+#If the user decides to quit the game without correctly guessing the number, the correct number will be printed to the screen before exiting the game.
+
 #!/usr/bin/perl
 
 use strict;
