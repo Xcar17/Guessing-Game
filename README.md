@@ -5,8 +5,6 @@ Guessing Game
 -   **Class:** Survey Of Scripting Languages (CSCI 301)
 -   **Grade:** 100%
 -   **Language(s):** Perl
--   **Source Code Repository:** [Guessing Game](https://github.com/Xcar17/Guessing-Game)  
-    (Please [email me](mailto:cror93@gmail.com?subject=GitHub%20Access) to request access.)
 
 ## Project description
 
